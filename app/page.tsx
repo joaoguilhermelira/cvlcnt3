@@ -189,7 +189,7 @@ export default function HomePage() {
                   margin: "0 0 1.5rem 0",
                 }}
               >
-                Resultados para "{searchTerm}"
+                {`Resultados para "${searchTerm}"`}
               </h2>
               {filteredMaps.length > 0 ? (
                 <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
