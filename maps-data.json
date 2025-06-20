@@ -1,0 +1,82 @@
+[
+  {
+    "id": "apendicectomia",
+    "title": "Apendicectomia",
+    "description": "Procedimento cirúrgico para remoção do apêndice vermiforme",
+    "category": "cirurgia geral",
+    "subcategory": "cirurgia abdominal",
+    "tags": ["apêndice", "laparoscopia", "emergência"]
+  },
+  {
+    "id": "colecistectomia",
+    "title": "Colecistectomia",
+    "description": "Remoção cirúrgica da vesícula biliar",
+    "category": "cirurgia geral",
+    "subcategory": "cirurgia hepatobiliar",
+    "tags": ["vesícula", "laparoscopia", "cálculos"]
+  },
+  {
+    "id": "hernia-inguinal",
+    "title": "Hérnia Inguinal",
+    "description": "Reparo cirúrgico de hérnia na região inguinal",
+    "category": "cirurgia geral",
+    "subcategory": "cirurgia da parede abdominal",
+    "tags": ["hérnia", "inguinal", "tela"]
+  },
+  {
+    "id": "trauma-abdominal",
+    "title": "Trauma Abdominal",
+    "description": "Abordagem cirúrgica do trauma abdominal penetrante",
+    "category": "cirurgia do trauma",
+    "subcategory": "trauma penetrante",
+    "tags": ["trauma", "emergência", "abdome"]
+  },
+  {
+    "id": "trauma-toracico",
+    "title": "Trauma Torácico",
+    "description": "Manejo cirúrgico do trauma torácico",
+    "category": "cirurgia do trauma",
+    "subcategory": "trauma torácico",
+    "tags": ["trauma", "tórax", "emergência"]
+  },
+  {
+    "id": "resseccao-hepatica",
+    "title": "Ressecção Hepática",
+    "description": "Ressecção cirúrgica de segmentos hepáticos",
+    "category": "cirurgia oncológica",
+    "subcategory": "cirurgia hepatobiliar",
+    "tags": ["fígado", "oncologia", "ressecção"]
+  },
+  {
+    "id": "gastrectomia",
+    "title": "Gastrectomia",
+    "description": "Ressecção total ou parcial do estômago",
+    "category": "cirurgia oncológica",
+    "subcategory": "cirurgia digestiva",
+    "tags": ["estômago", "oncologia", "ressecção"]
+  },
+  {
+    "id": "nefrectomia",
+    "title": "Nefrectomia",
+    "description": "Remoção cirúrgica do rim",
+    "category": "urologia",
+    "subcategory": "cirurgia renal",
+    "tags": ["rim", "nefrectomia", "laparoscopia"]
+  },
+  {
+    "id": "prostatectomia",
+    "title": "Prostatectomia",
+    "description": "Remoção cirúrgica da próstata",
+    "category": "urologia",
+    "subcategory": "cirurgia prostática",
+    "tags": ["próstata", "oncologia", "robótica"]
+  },
+  {
+    "id": "colectomia",
+    "title": "Colectomia",
+    "description": "Ressecção de segmentos do cólon",
+    "category": "coloproctologia",
+    "subcategory": "cirurgia colônica",
+    "tags": ["cólon", "laparoscopia", "oncologia"]
+  }
+]
